@@ -1,0 +1,1 @@
+Aplicativo utilitário para Android. Disponibiliza um serviço de agenda de lembretes e organização voltada para universitários em geral.
